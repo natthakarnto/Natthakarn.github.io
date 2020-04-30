@@ -1,0 +1,25 @@
+<link rel="stylesheet" type="text/css" href="index.css">
+
+
+<img src="koon.jpg" width="250px" height="350px">
+        <h1>Kamonn</h1>
+        <h2 class="title">kamonwan</h2>
+        <div>asdfgh</div>
+        <input type="date">
+        <li>*Powerr
+            *Yooo
+        </li>
+        <input type="password">
+        <div style="background-color: aqua;">Natthakarn</div>
+
+        <style>
+            h1, div{
+                background-color: salmon;
+                color: seashell;
+            }
+            .title {
+                background-color: skyblue;
+            }
+        </style>
+
+        raccoon;<span style="background-color: salmon;">kamonwan</span>raccoon;
